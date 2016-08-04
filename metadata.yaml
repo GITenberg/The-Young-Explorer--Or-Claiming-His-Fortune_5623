@@ -1,0 +1,36 @@
+_repo: The-Young-Explorer--Or-Claiming-His-Fortune_5623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Preston, Charles F.
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'California -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Sierra Nevada (Calif. and Nev.) -- History -- 19th century -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- GITenberg
+title: The Young Explorer; Or, Claiming His Fortune
+url: http://www.gutenberg.org/ebooks/5623
